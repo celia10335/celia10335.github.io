@@ -4,4 +4,4 @@
 
 - [Tutorial para subir archivos a GitHub desde Visual Studio Code](./tutorial_github_VSCode.html)
 
-- [Tutorial versión PDF](https://github.com/celia10335/celia10335.github.io/blob/main/Tutorial_github%20con%20VSCode%20-%20Celia%20Blanco.pdf)
+- [Tutorial versión PDF](./Tutorial_github%20con%20VSCode%20-%20Celia%20Blanco.pdf)
