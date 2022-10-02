@@ -13,7 +13,7 @@ Se creará un repositorio en nuestro GitHub a partir de la copia que vamos a hac
  
 Hacemos clic en "Aceptar" a todas las opciones que vengan por defecto. Ya estaría hecha la bifurcación.
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-31-42.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-31-42.png">
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-31-42.png)
 
@@ -27,7 +27,7 @@ git clone git@github.com:celia10335/E_Cliente_Manu.git
 ```
 
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-33-04.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-33-04.png">
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-33-04.png)
  
@@ -35,7 +35,7 @@ git clone git@github.com:celia10335/E_Cliente_Manu.git
 ### Paso 3: Modificar la copia del proyecto como queramos
 Hacemos las modificaciones que queramos sobre nuestra bifurcación. En este caso, he modificado el archivo README.md.
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-33-59.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-33-59.png">
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-33-59.png)
 
@@ -46,7 +46,7 @@ git commit
 git push
 ```
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-34-31.png"> 
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-34-31.png"> 
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-34-31.png)
 
@@ -54,17 +54,17 @@ git push
 ### Paso 4: Solicitar que los cambios que hemos hecho se fusionen con el proyecto original: "pull request"
 Vamos al repositorio de GitHub que contiene la bifurcación y hacemos clic en el segundo icono por la derecha, "pull request". Seleccionamos "New pull request".
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-31-26.png">
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-31-02.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-31-26.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-31-02.png">
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-31-26.png)
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-31-02.png)
  
 Si el propietario del proyecto original acepta, en su repositorio se verá algo así. Como se puede comprobar, el archivo README.md se ha actualizado con los cambios que hicimos en nuestra copia.
 
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-28-27.png">
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-28-41.png">
-<img src="../capturas fork/Captura de pantalla 2022-09-29 09-29-20.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-28-27.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-28-41.png">
+<img src="../capturas fork/Captura de pantalla de 2022-09-29 09-29-20.png">
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-28-27.png)
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-28-41.png)
