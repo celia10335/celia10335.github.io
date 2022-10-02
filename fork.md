@@ -14,6 +14,7 @@ Se creará un repositorio en nuestro GitHub a partir de la copia que vamos a hac
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%202022-10-02%20132217.jpg)
 
 Hacemos clic en "Aceptar" a todas las opciones que vengan por defecto. Ya estaría hecha la bifurcación.
+![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-31-42.png)
 
 
 ### Paso 2: Clonar repositorio en nuestro equipo
