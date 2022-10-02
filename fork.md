@@ -56,6 +56,6 @@ Si el propietario del proyecto original acepta, en su repositorio se verá algo 
 ## DIFERENCIAS ENTRE FORK Y CLONE
 Realmente, fork y clone se refieren a cosas totalmente distintas. Clone es la operación que nos sirve para traer un repositorio remoto a nuestro repositorio local. Esto también lo vamos a realizar con el repositorio que ha resultado de la bifurcación, ya que se crea un repositorio aparte.
 
-Entonces, podríamos decir que la diferencia estaría en qué repositorio estamos clonando. ¿Estamos clonando el repositorio original o es repositorio "fork", que es una copia? De eso va a depender también los "commit" que hagamos. Si intentamos hacer un "commit" de un repositorio que no es nuestro, deberemos estar habilitados como colaboradores, de lo contrario, no se reflejarán los cambios.
+Entonces, podríamos decir que la diferencia estaría en qué repositorio estamos clonando. ¿Estamos clonando el repositorio original o el repositorio "fork", que es una copia? De eso va a depender también los "commit" que hagamos. Si intentamos hacer un "commit" de un repositorio que no es nuestro, deberemos estar habilitados como colaboradores, de lo contrario no se reflejarán los cambios.
 
-Sin embargo, podemos hacer los commit que queramos en la bifurcación, ya que realmente es un repositorio de nuestra propiedad que refleja una copia de otro repositorio. No va a afectar al repositorio original, salvo que el propietario acepte nuestro "pull request".
+Sin embargo, podemos hacer los "commit" que queramos en la bifurcación, ya que realmente es un repositorio de nuestra propiedad que refleja una copia de otro. No va a afectar al repositorio original, salvo que el propietario acepte nuestro "pull request".
