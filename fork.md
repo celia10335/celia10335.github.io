@@ -21,4 +21,9 @@ Hacemos clic en "Aceptar" a todas las opciones que vengan por defecto. Ya estar�
 Lo más adecuado para trabajar en esta copia de proyecto es llevarlo a nuestro repositorio local, es decir, clonarlo en nuestro ordenador.
 En nuestro equipo, debemos crear una carpeta donde ubicar este repositorio. En el ejemplo, he creado un directorio llamado "Bifurcando", y ahí he ubicado "E_cliente_Manu".
 
+```sh
+git clone git@github.com:celia10335/E_Cliente_Manu.git
+```
+
+![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-33-04.png)
 
