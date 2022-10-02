@@ -7,6 +7,7 @@ En la esquina superior izquierda, encontramos la pestaña Fork, la desplegamos y
 
 Se creará un repositorio en nuestro GitHub a partir de la copia que vamos a hacer. Le ponemos un nombre.
 
+<img src="../capturas fork/Captura de pantalla 2022-10-02 132217.jpg">
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%202022-10-02%20132217.jpg)
 
  
