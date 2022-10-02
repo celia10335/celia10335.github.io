@@ -9,4 +9,6 @@ En la esquina superior izquierda, encontramos la pestaña Fork, la desplegamos y
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%202022-10-02%20102052.jpg)
 
-![]
+![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-32-12.png)
+
+
