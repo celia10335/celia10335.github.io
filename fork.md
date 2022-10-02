@@ -6,3 +6,7 @@ En nuestro equipo, debemos crear una carpeta donde ubicar esta copia de proyecto
 
 Elegimos un repositorio cualquiera en www.github.com, ya sea nuestro o de otra persona (lo suyo es que sea de otro usuario).
 En la esquina superior izquierda, encontramos la pestaña Fork, la desplegamos y elegimor "Crete new fork".
+
+![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%202022-10-02%20102052.jpg)
+
+![]
