@@ -24,8 +24,9 @@ git clone git@github.com:celia10335/E_Cliente_Manu.git
 ```
 
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-33-04.png)
-
  
+  .
+  .
 ### Paso 3: Modificar la copia del proyecto como queramos
 Hacemos las modificaciones que queramos sobre nuestra bifurcación. En este caso, he modificado el archivo README.md.
  
@@ -40,8 +41,8 @@ git push
  
 ![](https://github.com/celia10335/celia10335.github.io/blob/main/capturas%20fork/Captura%20de%20pantalla%20de%202022-09-29%2009-34-31.png)
  
- 
-
+. 
+.
 ### Paso 4: Solicitar que los cambios que hemos hecho se fusionen con el proyecto original: "pull request"
 Vamos al repositorio de GitHub que contiene la bifurcación y hacemos clic en el segundo icono por la derecha, "pull request". Seleccionamos "New pull request".
  
